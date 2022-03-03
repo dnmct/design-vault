@@ -1,0 +1,12 @@
+version: 1
+imports: []
+schemas:
+  - id: tool
+    children: [t]
+    title: tool
+    parent: root
+    namespace: true
+    # tools
+  - id: t
+    title: tools
+    desc: Tools to work with

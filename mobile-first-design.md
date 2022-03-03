@@ -2,7 +2,7 @@
 id: oo3i6gfiu5g5x3ib1p79v61
 title: Mobile First Design
 desc: ""
-updated: 1646223453217
+updated: 1646292162345
 created: 1646154781710
 ---
 
