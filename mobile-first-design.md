@@ -2,7 +2,7 @@
 id: oo3i6gfiu5g5x3ib1p79v61
 title: Mobile First Design
 desc: ""
-updated: 1646323011704
+updated: 1646640478889
 created: 1646154781710
 ---
 
@@ -30,7 +30,7 @@ created: 1646154781710
 
 ### Min and Max
 
-With `min()` and `max()` the browser determines which of the arguements is the smallest or biggest.
+With `min()` and `max()` the browser determines which of the arguments is the smallest or biggest.
 
 ```css
 .element {
